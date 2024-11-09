@@ -1,0 +1,11 @@
+{
+  "name": "LocatePlayerCursors",
+  "version": "1.0.0",
+  "title": "Locate Player Cursors",
+  "author": "Atria",
+  "contact": "tomas.chmelik2@gmail.com",
+  "homepage": "https://github.com/Atria1234/LocatePlayerCursors",
+  "factorio_version": "2.0",
+  "dependencies": [],
+  "description": "Adds hotkey and shortcut to show other player's cursors on the map (or players themselves if they don't hover of anything)."
+}

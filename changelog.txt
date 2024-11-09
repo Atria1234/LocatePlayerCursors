@@ -1,0 +1,6 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2024-10-09
+  Features:
+    - Created mod.
+    - Works same as LocatePlayers, except it also allows to open map on other player's cursors.
